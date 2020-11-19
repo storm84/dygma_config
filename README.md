@@ -1,13 +1,16 @@
 # dygma_config
-My dygma raise keyboard config
+Keyboard configuration for dygma raise.
 
-## Layers in use:
-* L2 - main layer
-* L3 - second layer (F-keys and navigation)
-* L4 - used to select main layer (1 = {L0 & L2}, 2 = { L2, L3 }, 3 = {L5, L6}
-## Configured layers that i dont use right now:
-* L0 - main layer default config 
-* L1 - second layer default config 
+## Layers:
+* Layer0 - WIN Main
+* Layer1 - WIN & MAC Second
+* Layer2 - MAC Second
+* Layer3 - Default config Main
+* Layer4 - Default config Second
+* Layer5 - Dygma custom (made for me) Main
+* Layer6 - Dygma custom (made for me) Second
+* Layer7 - Empty
+* Layer8 - Empty
+* Layer9 - used to select main Layer (1 = {L0 & L2}, 2 = { L2, L3 }, 3 = {L5, L6}
 
-* L5 - main custom layer made for me by Dygma
-* L6 - second custom layer made for me by Dygma
+_I currently only use layer 0, 1, 2 and 9_

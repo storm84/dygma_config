@@ -77,27 +77,15 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 82,
       "label": "↑"
     },
     {
-      "keyCode": 77,
-      "label": "END"
-    },
-    {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
-    },
-    {
-      "keyCode": 73,
-      "label": "INSERT"
-    },
-    {
       "keyCode": 0,
       "label": "NO KEY",
       "verbose": "Disabled"
@@ -113,25 +101,41 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 77,
-      "label": "END"
+      "keyCode": 86,
+      "label": "-",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 36,
+      "label": "7"
     },
     {
-      "keyCode": 73,
-      "label": "INSERT"
+      "keyCode": 37,
+      "label": "8"
+    },
+    {
+      "keyCode": 38,
+      "label": "9"
+    },
+    {
+      "keyCode": 84,
+      "label": "/",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -145,10 +149,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17495,
+      "label": "3",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 80,
@@ -163,11 +166,6 @@
       "label": "→"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
-    },
-    {
       "keyCode": 0,
       "label": "NO KEY",
       "verbose": "Disabled"
@@ -193,21 +191,30 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 33,
+      "label": "4"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 34,
+      "label": "5"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 35,
+      "label": "6"
+    },
+    {
+      "keyCode": 85,
+      "label": "*",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 46,
+      "label": "\\"
     },
     {
       "keyCode": 0,
@@ -215,9 +222,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -266,40 +274,25 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 99,
+      "label": ".",
+      "extraLabel": "Numpad"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 30,
+      "label": "1"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 31,
+      "label": "2"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 32,
+      "label": "3"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
       "keyCode": 65535,
@@ -332,6 +325,12 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
       "keyCode": 0,
       "label": "NO KEY",
       "verbose": "Disabled"
@@ -355,15 +354,13 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17454,
-      "label": "4",
+      "keyCode": 17459,
+      "label": "9",
       "extraLabel": "SHIFTTO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 65535,
@@ -372,22 +369,16 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 79,
+      "label": "→"
     },
     {
       "keyCode": 65535,
@@ -397,138 +388,138 @@
     }
   ],
   "colormap": [
-    11,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    5,
-    3,
-    11,
-    3,
-    1,
+    4,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    4,
+    15,
     0,
+    15,
+    15,
+    15,
     6,
-    11,
-    11,
-    11,
+    0,
+    0,
+    0,
+    15,
+    15,
+    4,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    4,
+    4,
+    4,
     1,
-    13,
-    5,
-    15,
-    12,
-    15,
-    15,
-    15,
-    15,
-    5,
-    5,
-    5,
-    11,
     1,
     4,
     3,
-    11,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
+    5,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
     3,
     15,
+    15,
+    10,
+    9,
+    9,
+    9,
+    10,
+    15,
+    10,
+    10,
+    9,
+    9,
+    9,
+    10,
+    4,
+    0,
+    9,
+    9,
+    9,
+    10,
+    4,
+    0,
+    0,
     0,
     1,
-    3,
-    11,
-    3,
-    15,
-    15,
-    15,
-    1,
-    11,
-    11,
-    11,
-    15,
-    5,
-    15,
-    15,
-    15,
-    15,
-    15,
-    5,
-    11,
-    5,
-    5,
-    0,
-    1,
+    9,
     6,
-    5,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11
+    3,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
   ],
   "palette": [
     {

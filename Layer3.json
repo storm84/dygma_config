@@ -134,9 +134,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 49222,
-      "label": "`",
-      "extraLabel": "CTRL/"
+      "keyCode": 17496,
+      "label": "4",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 4,
@@ -267,8 +267,10 @@
       "label": "-"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 229,
+      "label": "RIGHT SHIFT",
+      "extraLabel": "",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 224,
@@ -300,32 +302,13 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 225,
+      "label": "LEFT SHIFT",
+      "verbose": "Left Shift"
     },
     {
-      "keyCode": 52794,
-      "label": "ENTER",
-      "extraLabel": "L#6/"
-    },
-    {
-      "keyCode": 49167,
-      "label": "6",
-      "extraLabel": "OSL"
-    },
-    {
-      "keyCode": 17496,
-      "label": "4",
-      "extraLabel": "MOVETO"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
-      "keyCode": 49499,
-      "label": "HOME",
-      "extraLabel": "SHIFT/"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 230,
@@ -334,16 +317,38 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 17459,
+      "label": "9",
+      "extraLabel": "SHIFTTO"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 44,
+      "label": "SPACE"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 76,
+      "label": "DEL"
+    },
+    {
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
+    },
+    {
+      "keyCode": 231,
+      "label": "RIGHT WIN",
+      "verbose": "Right Win"
+    },
+    {
+      "keyCode": 17152,
+      "label": "NEXT",
+      "extraLabel": "LED"
+    },
+    {
+      "keyCode": 228,
+      "label": "RIGHT CTRL",
+      "verbose": "Right Control"
     }
   ],
   "colormap": [
@@ -360,7 +365,7 @@
     4,
     4,
     4,
-    7,
+    6,
     4,
     4,
     4,
@@ -378,44 +383,44 @@
     4,
     5,
     1,
-    8,
-    6,
-    5,
     4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    6,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    0,
-    4,
-    4,
-    4,
-    4,
-    4,
-    0,
-    0,
-    0,
-    4,
-    10,
-    1,
-    10,
     3,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    0,
+    4,
+    4,
+    7,
+    1,
+    6,
+    11,
     4,
     4,
     4,

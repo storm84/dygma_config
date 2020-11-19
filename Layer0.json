@@ -134,8 +134,8 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 49164,
-      "label": "3",
+      "keyCode": 49162,
+      "label": "1",
       "extraLabel": "OSL"
     },
     {
@@ -317,8 +317,8 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 17454,
-      "label": "4",
+      "keyCode": 17459,
+      "label": "9",
       "extraLabel": "SHIFTTO"
     },
     {
@@ -343,7 +343,7 @@
     {
       "keyCode": 17152,
       "label": "NEXT",
-      "extraLabel": "LEDEFF."
+      "extraLabel": "LED"
     },
     {
       "keyCode": 228,
@@ -571,10 +571,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 255,
-      "g": 231,
+      "r": 0,
+      "g": 0,
       "b": 0,
-      "rgb": "rgb(255, 231, 0)"
+      "rgb": "rgb(0, 0, 0)"
     },
     {
       "r": 0,
