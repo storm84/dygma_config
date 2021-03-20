@@ -208,8 +208,8 @@
     },
     {
       "keyCode": 100,
-      "label": "ALT \\",
-      "verbose": "Non-US \\"
+      "label": "ISO <>",
+      "verbose": "ISO <>"
     },
     {
       "keyCode": 29,
@@ -302,9 +302,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 225,
-      "label": "LEFT SHIFT",
-      "verbose": "Left Shift"
+      "keyCode": 17459,
+      "label": "9",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 40,
@@ -317,9 +317,9 @@
       "verbose": "AltGr"
     },
     {
-      "keyCode": 17459,
-      "label": "9",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 49162,
+      "label": "1",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 44,
