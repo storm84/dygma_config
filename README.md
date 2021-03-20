@@ -7,8 +7,8 @@ Keyboard configuration for dygma raise.
 * Layer2 - MAC Main
 * Layer3 - Default config Main
 * Layer4 - Default config Second
-* Layer5 - Dygma custom (made for me) Main
-* Layer6 - Dygma custom (made for me) Second
+* Layer5 - Dygma custom made Main
+* Layer6 - Dygma custom made Second
 * Layer7 - Empty
 * Layer8 - Empty
 * Layer9 - Main selection and macros layer
